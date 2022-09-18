@@ -1,0 +1,5 @@
+1)Github Link used for testing-->
+[Performed testing on github]
+https://github.com/harsh2308-agr/JenkinsTesting
+
+2)Used CatsFacts api for api integration testing using postman.
